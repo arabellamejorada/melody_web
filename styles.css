@@ -1,3 +1,7 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 .body {
     display: flex;
     flex-direction: column;
@@ -5,3 +9,17 @@
     height: 100vh;
     font-family: roboto, sans-serif;
 }
+
+ 
+/* CSS HEX
+--misty-rose: #ffe5ecff;
+--pink: #ffc2d1ff;
+--cherry-blossom-pink: #ffb3c6ff;
+--bakermiller-pink: #ff8fabff;
+--rose-pompadour: #fb6f92ff;
+
+--misty-rose: hsla(344, 100%, 95%, 1);
+--pink: hsla(345, 100%, 88%, 1);
+--cherry-blossom-pink: hsla(345, 100%, 85%, 1);
+--bakermiller-pink: hsla(345, 100%, 78%, 1);
+--rose-pompadour: hsla(345, 95%, 71%, 1); */
